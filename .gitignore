@@ -1,0 +1,17 @@
+# RUST
+**/target/
+**/debug/
+**/*.rs.bk
+tarpaulin-report.html
+
+# NIX, SYSTEM, TOOLS
+result
+**/*.~undo-tree~
+.DS_Store
+.direnv/
+.vscode/
+Cargo.lock
+
+# APPLICATION
+**/.env**
+**/.cache/
